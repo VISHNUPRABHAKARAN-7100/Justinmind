@@ -1,0 +1,27 @@
+
+.para1
+{
+  font-size: 35px;
+  font-weight: 400;
+  font-family: "Montserrat" !important;
+}
+.para2
+{
+  font-size: 1.72rem;
+  font-family: "Montserrat";
+  font-weight: 400;
+}
+.list-1:hover
+{
+  text-decoration: none;
+}
+.frame1
+{
+  
+  border-radius: 5px;
+  background: #f6f7f8;
+}
+.heading
+{
+  font-weight: bold;
+}
